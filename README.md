@@ -1,12 +1,13 @@
 # NSRecursiveCondition
 
+## Discussion
 An objective-C class with identical functionality to the Foundation framework's 
 [NSCondition](https://developer.apple.com/library/ios/documentation/cocoa/reference/NSCondition_class/Reference/Reference.html) 
 class, but with a recursive mutex for locking, effectively combining the functionality of 
 [NSCondition](https://developer.apple.com/library/ios/documentation/cocoa/reference/NSCondition_class/Reference/Reference.html) 
 with [NSRecursiveLock](https://developer.apple.com/library/mac/documentation/cocoa/reference/foundation/Classes/NSRecursiveLock_Class/Reference/Reference.html).
 
-# License
+## License
 
 Copyright 2014 Bradley J. Snyder <snyder.bradleyj@gmail.com>
 
